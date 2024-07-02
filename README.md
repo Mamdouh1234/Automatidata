@@ -15,7 +15,6 @@ Automatidata works with its clients to transform their unused and stored data in
 Automatidata is consulting for the New York City Taxi and Limousine Commission (TLC). New York City TLC is an agency responsible for licensing and regulating New York City's taxi cabs and for-hire vehicles. 
 **The agency has partnered with Automatidata to develop a classification model that helps classify customers as generous or not according to their tips.**
 
-A machine learning model would greatly assist in the effort to present human moderators with videos that are most likely to be in violation of TikTok's terms of service.
 
 ## Data Understanding
 
